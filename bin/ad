@@ -1,0 +1,144 @@
+[33mcommit 77b625eec8da7a593df6ebcbd3a11bc20b3312e4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Subrata1920 <>
+Date:   Wed Jun 26 10:44:07 2019 +0530
+
+    subsector code added
+
+[33mcommit 7ee077889644eee6b121754b45eb35f713a29aa5[m
+Author: Subrata1920 <>
+Date:   Tue Jun 25 19:04:45 2019 +0530
+
+    message
+
+[33mcommit 710e4bd0a52768ed44f37ddd02d7507060cb2068[m
+Author: Subrata1920 <>
+Date:   Mon Jun 24 19:43:14 2019 +0530
+
+    any
+
+[33mcommit 85c4fc7d690e355593d9962cd76b9d028be44420[m
+Author: Subrata1920 <>
+Date:   Thu Jun 20 19:15:51 2019 +0530
+
+    indicator configuration
+
+[33mcommit 93478b1a0838628acdd0f9ad7d0e13e5ff0ecd90[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Tue Jun 18 12:41:30 2019 +0530
+
+    case added to aggregate IFA forms
+
+[33mcommit ed63f37cdfaa3a1842e27cb1d088614d7d41dadc[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Fri Jun 14 20:40:50 2019 +0530
+
+    user wise aggregation added
+
+[33mcommit 341915c0acba662ce2b01a8ee904ad125fc3eb00[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Wed Jun 12 20:31:31 2019 +0530
+
+    conflict resolve
+
+[33mcommit dafb08a14c5c1e775681e355fab5bfba03607a82[m
+Merge: 077210e 7744cf3
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Wed Jun 12 20:28:36 2019 +0530
+
+    first commit
+
+[33mcommit 077210e3e1ca19083a3777690fa71da1888e1de1[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Wed Jun 12 20:20:37 2019 +0530
+
+    first commit
+
+[33mcommit 7744cf393c6625bbaa3825a71022f7e4158f7df4[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Wed Jun 5 17:00:08 2019 +0530
+
+    addition and substraction on multiple fields added.
+
+[33mcommit 90bc24f9df9a9d2422c63f9cf8c83e2be9c13243[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 16 18:43:29 2019 +0530
+
+    conditional count operations on dropdown field added
+
+[33mcommit 6a8a8bc980a77cd234750f00a1ebc37cfc2b5897[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 16 18:17:25 2019 +0530
+
+    conditional sum operations on tel field added
+
+[33mcommit f86ba06a7cd94b757beb109c7acef0c403024539[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 16 13:09:52 2019 +0530
+
+    in divide by zero putting percentage value as null
+
+[33mcommit c2aaca534a9dca67fe146bfc404faa10e44f5e6d[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Wed May 15 12:41:09 2019 +0530
+
+    time period constraint added to aggregation
+
+[33mcommit cf04e5ec61d7db7044c05bee4bd5510ccc74546d[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Tue May 14 19:25:35 2019 +0530
+
+    area wise count for table data added
+
+[33mcommit 6aaa38e5d2e9efe5e2ff6419955efb2f9f9e60f9[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Mon May 13 14:01:44 2019 +0530
+
+    unique count with multiple conditions
+
+[33mcommit 308751bc34de68b175b43e3d668ca092464ef2a0[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 9 12:50:16 2019 +0530
+
+    Subtraction case added in percent case
+
+[33mcommit 58b17769c428ba02fbd377a673d93ec634c628e6[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 2 17:22:40 2019 +0530
+
+    repeat count issue resolved
+
+[33mcommit f8ef9b12a5c838c25ca5f0ec4a65c6fe94ed6597[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu May 2 12:34:00 2019 +0530
+
+    changes
+
+[33mcommit fe33ba719d895787820dd7d486e52401a30d573e[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Sat Apr 27 18:10:33 2019 +0530
+
+    divide by zero issue resolved
+
+[33mcommit 95a4bae8329852892e7954129f5fc9f5879dc2c7[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Fri Apr 26 19:29:08 2019 +0530
+
+    count issue while count is zero in dropdown case has been resolved
+
+[33mcommit c849b9069256341e2f51d9da9dbd45b20efb8782[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Mon Apr 22 18:01:50 2019 +0530
+
+    case added for coverage indicators from area repo
+
+[33mcommit b2354c9e043ffc7945b1e0f667ffea13f055ccc2[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Mon Apr 22 17:59:59 2019 +0530
+
+    new case added
+
+[33mcommit 1b5cd5b3acb69edb9f34a08286810d446d5c2f6a[m
+Author: Biswabhusan Pradhan <biswabhusanpradhan380@gmail.com>
+Date:   Thu Apr 11 19:06:02 2019 +0530
+
+    First commit

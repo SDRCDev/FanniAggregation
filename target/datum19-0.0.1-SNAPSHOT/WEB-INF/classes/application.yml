@@ -1,0 +1,15 @@
+
+spring:
+ application:
+   name: datum19
+
+   
+        
+server:
+  context-path: /datum19
+
+
+    
+logging:
+  level:
+    org.springframework.data.mongodb.core.MongoTemplate: infos
